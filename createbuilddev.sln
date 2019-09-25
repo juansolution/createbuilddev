@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "createbuilddev.console", "c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "createbuilddev.core", "createbuilddev.core\createbuilddev.core.csproj", "{E49E7BD5-84E4-4A76-A7DA-5B40D35E413E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "createbuilddev.infrastructure", "createbuilddev.infrastructure\createbuilddev.infrastructure.csproj", "{773127D9-217D-4261-A4A6-BD8A9C546242}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{E49E7BD5-84E4-4A76-A7DA-5B40D35E413E}.Release|x64.Build.0 = Release|Any CPU
 		{E49E7BD5-84E4-4A76-A7DA-5B40D35E413E}.Release|x86.ActiveCfg = Release|Any CPU
 		{E49E7BD5-84E4-4A76-A7DA-5B40D35E413E}.Release|x86.Build.0 = Release|Any CPU
+		{773127D9-217D-4261-A4A6-BD8A9C546242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773127D9-217D-4261-A4A6-BD8A9C546242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773127D9-217D-4261-A4A6-BD8A9C546242}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{773127D9-217D-4261-A4A6-BD8A9C546242}.Debug|x64.Build.0 = Debug|Any CPU
+		{773127D9-217D-4261-A4A6-BD8A9C546242}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{773127D9-217D-4261-A4A6-BD8A9C546242}.Debug|x86.Build.0 = Debug|Any CPU
+		{773127D9-217D-4261-A4A6-BD8A9C546242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773127D9-217D-4261-A4A6-BD8A9C546242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{773127D9-217D-4261-A4A6-BD8A9C546242}.Release|x64.ActiveCfg = Release|Any CPU
+		{773127D9-217D-4261-A4A6-BD8A9C546242}.Release|x64.Build.0 = Release|Any CPU
+		{773127D9-217D-4261-A4A6-BD8A9C546242}.Release|x86.ActiveCfg = Release|Any CPU
+		{773127D9-217D-4261-A4A6-BD8A9C546242}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

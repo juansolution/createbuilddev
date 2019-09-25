@@ -1,4 +1,6 @@
 ﻿using System;
+using Autofac;
+
 
 namespace createbuilddev.console
 {
@@ -6,6 +8,10 @@ namespace createbuilddev.console
     {
         static void Main(string[] args)
         {
+
+            var collection = new ServiceCollection();
+
+            
             Console.WriteLine("Hello World!");
         }
     }

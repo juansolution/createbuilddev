@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace createbuilddev.core
+namespace createbuilddev.infrastructure
 {
     public class Class1
     {
